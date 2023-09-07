@@ -9,7 +9,7 @@ Module 1 Challenge
 
 ## Installation
 
-N/A 
+No installation needed project deployed as a URL "https://lujoffily.github.io/Horiseon_project/" 
 
 ## This website provides information about the services that the company provides, and ways you can improve your busness. You will learn how to optimize your companie when people use look for your company, will also learn how to control what your clientele will see when they look for your company, and many other tools on how to better your company.
 
